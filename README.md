@@ -1,16 +1,9 @@
-# form
+# Link Video
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Berikut adalah link untuk video tugas saya:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Tonton Video di Google Drive](https://drive.google.com/file/d/1y9iGI1Dg7aBjSOPhKG-QHptzMjoFWUer/view?usp=sharing)
